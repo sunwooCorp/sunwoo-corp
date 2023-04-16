@@ -685,7 +685,7 @@ progress {
 
 /* line 8, src/assets/scss/_images.scss */
 .img-fluid {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
 }
 
@@ -5562,7 +5562,7 @@ fieldset:disabled .btn {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  min-width: 0;
+  min-width: 300px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
