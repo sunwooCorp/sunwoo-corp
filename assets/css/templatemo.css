@@ -51,7 +51,6 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  background-image: url('./../img/sunwoo_web_re.jpg');
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 60vh;
@@ -67,7 +66,7 @@ p, a {font-weight: 400;}
   font-size: 4em;
 }
 #index_banner .carousel-inner {
-  height: 80vh;
+  height: 65vh;
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {

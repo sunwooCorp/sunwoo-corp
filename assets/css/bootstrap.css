@@ -686,7 +686,8 @@ progress {
 /* line 8, src/assets/scss/_images.scss */
 .img-fluid {
   max-width: 70%;
-  height: auto;
+  height: fit-content !important;
+  overflow: hidden !important;
 }
 
 /* line 14, src/assets/scss/_images.scss */
